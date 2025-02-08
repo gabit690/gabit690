@@ -1,4 +1,6 @@
 <img title="Header" alt="repository's header" src="./header.png">
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br/>  
 
 ### **Hi everyone**
 - <img title="Argentina" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/1a/20101128025228!Flag_of_Argentina.svg/120px-Flag_of_Argentina.svg.png" width="25px"> I'm from Buenos Aires, Argentina .
