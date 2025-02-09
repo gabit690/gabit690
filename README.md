@@ -1,16 +1,32 @@
 <img title="Header" alt="repository's header" src="./header.png">
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br/>  
+<h3 style="text-align:center; font-size:2rem; font-style:italic">Hi people 👋, I'm Gabit a software engineer</h3>
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul type='square'>
+      <li>I'm from Buenos Aires, Argentina 🧉</li>
+      <li>I enjoy science, technology, 🎮, and 😺</li>
+      <li>I'm currently working towards becoming a fullstack developer.</li>
+      <li>I’d like to have fun in IT and use technology to benefit people</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="170px">
+  </div>
+</div>
 
-### **Hi everyone**
-- <img title="Argentina" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/1a/20101128025228!Flag_of_Argentina.svg/120px-Flag_of_Argentina.svg.png" width="25px"> I'm from Buenos Aires, Argentina .
-- :blue_heart: I like science, technology, :video_game: and :smiley_cat:.
-- :computer: I'm currently working on becoming a fullstack developer.
-- :smiley: I´d like to have fun within IT and carry the benefits of technology to people.
+## **MY SKILLS**
 
-## **MY STATS**
+### Programming language
 
-![Gabit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabit690&show_icons=true&theme=tokyonight)
+### Frontend
+
+### Backend
+
+### Testing
+
+### Development tools
+
+### CI/CD
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabit690&layout=compact&theme=tokyonight)
 
@@ -23,14 +39,11 @@ int main() {
 }
 ```
 
-## **FIND ME IN**
+## **CONTACT**
 
 <a style="margin-left: 20px;" href="http://gabit-portfolio.epizy.com/">
   <img alt="Gabit's portfolio" width="40px" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Pic-180x180.png" />
 </a>
 <a style="margin-left: 20px;" href="https://www.linkedin.com/in/jg-valeriano">
   <img alt="Gabit's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a style="margin-left: 20px;" href="https://twitter.com/Gabit90">
-  <img alt="Gabit's Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
