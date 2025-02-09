@@ -39,6 +39,6 @@ int main() {
   <img alt="Gabit's portfolio" width="40px" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Pic-180x180.png" />
 </a>
 
-<a target="_blank" href="https://www.linkedin.com/in/jg-valeriano">
+<a target="blank" href="https://www.linkedin.com/in/jgvaleriano">
   <img alt="Gabit's LinkedIn" width="40px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
