@@ -38,7 +38,6 @@ int main() {
 <a href="http://gabit-portfolio.epizy.com/">
   <img alt="Gabit's portfolio" width="40px" src="https://cdn4.iconfinder.com/data/icons/marketing-and-business-flat-icons/512/briefcase_work_documents_marketing_business_flat_icon_symbol-512.png" />
 </a>
-
 <a href="https://www.linkedin.com/in/jgvaleriano">
-  <img alt="Gabit's Linkedin" width="40px" src="https://skillicons.dev/icons?i=linkedin" />
+  <img alt="Gabit's Linkedin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
