@@ -35,8 +35,10 @@ int main() {
 
 ## **CONTACT**
 
-<a style="margin-left: 20px;" href="http://gabit-portfolio.epizy.com/">
-  <img alt="Gabit's portfolio" width="40px" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Pic-180x180.png" />
+<a href="http://gabit-portfolio.epizy.com/">
+  <img alt="Gabit's portfolio" width="40px" src="https://cdn4.iconfinder.com/data/icons/marketing-and-business-flat-icons/512/briefcase_work_documents_marketing_business_flat_icon_symbol-512.png" />
 </a>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jgvaleriano)
+<a href="https://www.linkedin.com/in/jgvaleriano">
+  <img alt="Gabit's Linkedin" width="40px" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
