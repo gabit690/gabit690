@@ -1,4 +1,4 @@
-<img title="Header" alt="repository's header" src="./header.png">
+<img title="Header" alt="repository's header" src="./portrait.png">
 
 ### Hi people 👋, I'm Gabit a software engineer
 
@@ -6,11 +6,12 @@
 - I enjoy science, technology, 🎮, and 😺
 - I'm currently working towards becoming a fullstack developer
 - I’d like to have fun in IT and use technology to benefit people
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="170px">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="170px">
 
 ## **MY SKILLS**
 
 ### Programming language
+
 <div >
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
@@ -18,6 +19,7 @@
 </div>
 
 ### Frontend
+
 <div >
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
@@ -33,6 +35,7 @@
 </div>
 
 ### Backend
+
 <div >
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/>
@@ -44,11 +47,13 @@
 </div>
 
 ### Testing
+
 <div >
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/>
 </div>
 
 ### Development tools
+
 <div >
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
@@ -72,9 +77,9 @@ int main() {
 
 ## **CONTACT**
 
-<a href="http://gabit-portfolio.epizy.com/">
+<a href="https://jgabit.netlify.app">
   <img alt="Gabit's portfolio" width="40px" src="https://cdn4.iconfinder.com/data/icons/marketing-and-business-flat-icons/512/briefcase_work_documents_marketing_business_flat_icon_symbol-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/jgvaleriano">
-  <img alt="Gabit's Linkedin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+  <img alt="Gabit's Linkedin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" />
 </a>
